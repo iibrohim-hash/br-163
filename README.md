@@ -1,7 +1,7 @@
 # Deforestation Risk Prediction along Brazil's BR-163 Corridor
 
-**Practical Data Science (67-364) — Carnegie Mellon University**  
-*Iroda Ibrohimova · Spring 2026*
+
+*Iroda Ibrohimova*
 
 ---
 
